@@ -13,11 +13,12 @@ I am a passionate developer with a strong foundation in C/C++ and Java. I specia
 ### Expense Management App (Backend) 💼
 - Developed a feature-rich expense management web application using Java, Spring Boot, RESTful Web Services, MySQL, and Data JPA.
 - Designed the backend architecture for managing expenses and users through CRUD operations and RESTful endpoints, implementing expense pagination, sorting, and filtering capabilities.
-- Built user registration, authentication, and authorization with email validation and established relationships between User and Expense entities.
+- Built user registration, authentication, and authorization and established relationships between User and Expense entities.
 
 ### E-commerce Platform (Backend) 🛒
 - I've developed a robust e-commerce platform, focusing on backend development using Java, Spring Boot, Hibernate, and MySQL.
 - Engineered the backend architecture with RESTful web services, and data access through Spring Data JPA and Hibernate.
+- Designed a comprehensive set of APIs for effective management of users, products, product categories, and customer orders.
 
 ## Highlighted Repositories 🚀 
 
