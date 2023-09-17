@@ -6,7 +6,7 @@ I am a passionate developer with a strong foundation in C/C++ and Java. I specia
 ## Skills 🌟
 - **Languages:** C/C++, Java
 - **Frameworks:** Spring Boot, Hibernate, Maven
-- **Tools:** MySQL, Postman, Git, Docker
+- **Tools:** MySQL, Postman, Git
 
 ## Highlighted Projects 🚀
 
