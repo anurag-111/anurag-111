@@ -15,17 +15,24 @@ I am a passionate developer with a strong foundation in C/C++ and Java. I specia
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 
+
 ## Highlighted Projects 🚀
 
-### Expense Management App (Backend) 💼
-- Developed a feature-rich expense management web application using Java, Spring Boot, RESTful Web Services, MySQL, and Data JPA.
-- Designed the backend architecture for managing expenses and users through CRUD operations and RESTful endpoints, implementing expense pagination, sorting, and filtering capabilities.
-- Built user registration, authentication, and authorization and established relationships between User and Expense entities.
+### Education Management System (Backend) 📚
+- Developed a comprehensive backend for an Education Management System using Java, Spring Boot, Hibernate,
+  and MySQL which implemented RESTful web services for seamless interactions.
+- Built a set of APIs to manage essential entities such as courses, students, and teachers, enhancing the overall
+  functionality of the educational platform.
+- Created Service, Repository, and Controller layers for streamlined data entity management and efficient data
+  access through Spring Data JPA.
 
-### E-commerce Platform (Backend) 🛒
-- I've developed a robust e-commerce platform, focusing on backend development using Java, Spring Boot, Hibernate, and MySQL.
-- Engineered the backend architecture with RESTful web services, and data access through Spring Data JPA and Hibernate.
-- Designed a comprehensive set of APIs for effective management of users, products, product categories, and customer orders.
+### Expense Tracker (Backend) 💼
+- Expense Tracker is a RESTful web service created with Java, Spring Boot, RESTful Web Services, MySQL, and
+  Spring Data JPA. It streamlines expense management and user profile operations, ensuring a seamless user experience.
+- Designed the backend architecture to handle the expense and user management via RESTful endpoints.
+- Created Entity, Repository, Service, and Controller layers while establishing relationships between User and
+  Expense entities.
+- Supports CRUD Operations for Expenses and User information through dedicated endpoints.
 
 ## Highlighted Repositories 🚀 
 
