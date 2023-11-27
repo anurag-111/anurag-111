@@ -30,8 +30,6 @@ I am a passionate developer with a strong foundation in C/C++ and Java. I specia
 - Expense Tracker is a RESTful web service created with Java, Spring Boot, RESTful Web Services, MySQL, and
   Spring Data JPA. It streamlines expense management and user profile operations, ensuring a seamless user experience.
 - Designed the backend architecture to handle the expense and user management via RESTful endpoints.
-- Created Entity, Repository, Service, and Controller layers while establishing relationships between User and
-  Expense entities.
 - Supports CRUD Operations for Expenses and User information through dedicated endpoints.
 
 ## Highlighted Repositories 🚀 
