@@ -40,8 +40,6 @@ I am a passionate developer with a strong foundation in C/C++ and Java. I specia
 ### Daily Code Submissions 📝
 - This repository is a collection of my LeetCode submissions in C++. It's constantly evolving as I continue to sharpen my problem-solving skills.
 
-<p><img align="center" src="https://leetcode-stats-six.vercel.app/?username=anuragbarthwal11" alt="anurag-111" /></p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
