@@ -47,7 +47,7 @@ I am a passionate developer with a strong foundation in C/C++ and Java. I specia
 <p align="left">
 <a href="https://www.linkedin.com/in/anurag-barthwal-94aa78200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag barthwal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anuragbarthwal11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anuragbarthwal11" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anuragbarthwal11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anuragbarthwal11" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/anuragbarthwal11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anuragbarthwal11" height="30" width="40" /></a> -->
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-111&show_icons=true&locale=en" alt="anurag-111" /></p>
